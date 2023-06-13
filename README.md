@@ -1,2 +1,2 @@
 # CMS-Blog-with-Admin-Backend
-A blog CMS website with an Admin backend panel
+Content Management System(CMS) with Full Admin Panel in PHP MySQL Bootstrap and PDO
